@@ -1,5 +1,5 @@
 Executive Summary
-This project transforms 204,130 public health records from the Centers for Disease Control and Prevention Chronic Disease Indicators dataset into a state-level structural risk intelligence framework.
+This project transforms 204,130 public health records from the Centers for Disease Control and Prevention Chronic Disease Indicators dataset https://catalog.data.gov/dataset/u-s-chronic-disease-indicators  into a state-level structural risk intelligence framework.
 Rather than treating health data as purely epidemiological, this model reframes chronic disease burden as a leading indicator of workforce cost, economic drag, and regional investment risk.
 The output is a normalized, tiered, and variability-adjusted decision model suitable for consulting, corporate strategy, insurance, and public-sector analytics applications.
 Business Problem
